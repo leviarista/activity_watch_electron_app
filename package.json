@@ -28,7 +28,8 @@
           "name": "@electron-forge/maker-squirrel",
           "config": {
             "name": "activity_watch_electron_app",
-            "iconUrl": "https://activitywatch.net/img/logo.png",
+            "iconUrl": "https://raw.githubusercontent.com/leviarista/activity_watch_electron_app/main/app.ico",
+            "loadingGif": "src/loading.gif",
             "setupIcon": "app.ico"
           }
         },

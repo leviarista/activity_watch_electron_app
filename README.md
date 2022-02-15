@@ -9,11 +9,10 @@ This project is built with [Electron](https://www.electronjs.org/) and using [El
 
 To start the project run:
 
-    npm run start
+    npm start
 
 To build distributables:
 
     npm run make
 
 You can learn more in Electron and Electron Forge docs.
-
