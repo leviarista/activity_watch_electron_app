@@ -16,3 +16,7 @@ To build distributables:
     npm run make
 
 You can learn more in Electron and Electron Forge docs.
+
+# Distributables
+
+* [Squirrel.Windows](https://github.com/leviarista/activity_watch_electron_app/releases/download/v1.0.0/ActivityWatch.Electron.App-1.0.0.Setup.exe)
