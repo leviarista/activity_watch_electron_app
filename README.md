@@ -1,6 +1,6 @@
 # ActivityWatch Electron App
 
-An Electron App for ActivityWatch
+An Electron App for ActivityWatch that loads your local url (http://localhost:5600/#/) to visualize your dashboard.
 
 
 # Get started
